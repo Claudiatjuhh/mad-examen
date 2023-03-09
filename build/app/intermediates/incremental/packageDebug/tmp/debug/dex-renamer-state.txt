@@ -1,0 +1,4 @@
+#Tue Mar 07 19:01:29 CET 2023
+base.0=C\:\\Users\\School\\Desktop\\School\\Flutter\\mad-examen-claudianijholt\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
